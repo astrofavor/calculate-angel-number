@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://astrofavor.github.io/calculate-angel-number/sitemap.xml
